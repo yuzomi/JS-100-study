@@ -10,3 +10,5 @@ var d = {
 };
 
 console.log(d['weight']);
+
+//출력값 : 84
