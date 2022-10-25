@@ -8,3 +8,5 @@ const result = Math.floor(parseInt(n[0], 10) / parseInt(n[1], 10));
 
 //나머지 구하기
 const left = parseInt(n[0], 10) % parseInt(n[1], 10);
+
+console.log(result, left);
